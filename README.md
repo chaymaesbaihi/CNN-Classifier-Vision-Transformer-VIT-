@@ -8,5 +8,4 @@ Padding , stride, optimizers, regularization, etc) and running the model in GPU 
 
 **Vision Transformer (VIT):
 
-By following this tutorial : https://medium.com/mlearning-ai/vision-transformers-fromscratch-pytorch-a-step-by-step-guide-96c3313c2e0c, establish a Vit model architecture from
-scratch, then do classification task on MINST Dataset
+Establish a Vit model architecture from scratch, then do classification task on MINST Dataset
